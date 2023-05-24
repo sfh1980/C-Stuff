@@ -1,0 +1,15 @@
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\bin\Debug\net6.0\Giraffe.exe
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\bin\Debug\net6.0\Giraffe.deps.json
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\bin\Debug\net6.0\Giraffe.runtimeconfig.json
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\bin\Debug\net6.0\Giraffe.dll
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\bin\Debug\net6.0\Giraffe.pdb
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.csproj.AssemblyReference.cache
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.AssemblyInfoInputs.cache
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.AssemblyInfo.cs
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.dll
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\refint\Giraffe.dll
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.pdb
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\Giraffe.genruntimeconfig.cache
+C:\Users\Sean\Desktop\C#\gettingStarted\HelloWorld1\ConsoleApp1\obj\Debug\net6.0\ref\Giraffe.dll
